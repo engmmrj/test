@@ -1,0 +1,4 @@
+Moslem	Persian	10000
+Moslem	Persian	10000
+Bahrami	Persian	10000
+Test	Testing	10
